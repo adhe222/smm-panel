@@ -1,4 +1,3 @@
-cat > ~/README.md <<'READMEEOF'
 # 🚀 SMM Panel - Social Media Marketing Platform
 
 Platform all-in-one untuk mengelola strategi pemasaran digital bisnis Anda. Sistem SMM Panel yang terintegrasi dengan provider terpercaya untuk berbagai layanan social media marketing.
@@ -58,7 +57,7 @@ Platform Digital Marketing Indonesia - Solusi Profesional untuk Bisnis Online An
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/yourusername/smm-panel.git
+git clone https://github.com/adhe222/smm-panel.git
 cd smm-panel
 ```
 
@@ -236,15 +235,3 @@ This project is licensed under the MIT License.
 - 📈 99.9% uptime guarantee
 - 🌍 International service coverage
 - 💳 Multiple payment methods
-
----
-
-<p align="center">
-  Made with ❤️ for Indonesian Digital Marketers
-</p>
-
-<p align="center">
-  <a href="https://uboosters.com">UBOOSTERS</a> •
-  <a href="#api-documentation">API Docs</a> •
-  <a href="#support">Support</a>
-</p>
